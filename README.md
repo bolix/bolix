@@ -1,6 +1,6 @@
 ### Hi there, I am bolix 👋
 
-[![linkedin badge](https://img.shields.io/badge/Hemshree_Madaan-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/hemshree-madaan)
+[![linkedin badge](https://img.shields.io/badge/Bolivar_Baez-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/bolivarbaez/)
 [![twitter badge](https://img.shields.io/badge/@bolivar-30302f?style=flat&logo=twitter)](https://twitter.com/bolivar)
 
 
