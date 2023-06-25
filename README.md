@@ -4,7 +4,7 @@
 [![twitter badge](https://img.shields.io/badge/@bolivar-30302f?style=flat&logo=twitter)](https://twitter.com/bolivar)
 
 
-- 💬 Ask me about Scrum and Agile
+- 💬 Ask me about DevOps, Scrum and Agile
 
 <!--
 Here are some ideas to get you started:
